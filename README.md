@@ -3,10 +3,11 @@
 
 Bem vindo (a)! Meu nome é Sara Abreu esse é o meu perfil aqui no Github 😁 
 
-- 👩‍🎓  Estudante...
+- 👩‍🎓  Estudante Engenharia de Software
+- 👩‍🎓  Estudante Desenvolvimento Full Stack
 - ❤ Aprendiz...
 - 💻 Em busca de uma oportunidade como  DEV...
-- 👨‍👨‍👦‍👦 Sou casada e tenho 2 filhos...
+
 
 <div align="start">
   <a href="https://github.com/saradiene">
